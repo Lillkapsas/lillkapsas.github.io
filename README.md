@@ -1,1 +1,32 @@
-# lillkapsas.github.io
+<!DOCTYPE html>
+<html>
+<style>
+    table, th, td {border:1px solid black;}
+    </style>
+<style>{font-family:arial;}</style>
+<body style="background-color:rgb(248,215,224);">
+<h2>Tere tulemast :)!</h2>
+
+<p>Minu tudengikood on: 213287IADB<br>Minu ülikooli link on <a href=https://taltech.ee/>siin!</a></p>
+
+<img src="bunny.jpg" width="300">
+<p>See on minu joonistatud väikene armas karvapall :)!<p>
+
+<table style="width:50%">
+    <tr>
+        <th>Miks mulle meeldib joonistada?</th>
+    </tr>
+    <tr>
+        <td><ul><il>Kuna ma olen selles hea :P ja see viib mu mõtted eemale!</il></ul></td>
+    </tr>
+</table><br>
+
+<form>
+    <label for="comment">Leave your comment here :):</label><br>
+    <input type="text" id="comment" name="comment"><br>
+    <input type="submit">
+</form>
+<p>Comments :):</p><br>
+
+</body>
+</html>
